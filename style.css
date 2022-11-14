@@ -28,7 +28,7 @@
   box-sizing: border-box;
   position: relative;
   z-index: 2;
-  margin-top: 100px !important;
+  margin-top: 0px !important;
 }
 
 .bg-img-1 {
@@ -234,7 +234,7 @@
 }
 
 .faq-p {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   margin-bottom: 3px;
 }
@@ -295,12 +295,12 @@ footer {
 
 .footer-ul li a {
   font-size: small;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .footer-p {
   font-size: small;
-  font-weight: 600;
+  font-weight: 500;
   color: #646464;
 }
 
@@ -309,6 +309,16 @@ footer {
   border-radius: 4px;
   background-color: #ececee;
   font-size: 30px;
+  cursor: pointer;
+}
+
+.footer-ul li svg:hover {
+  padding: 6px;
+  border-radius: 4px;
+  color: #ececee;
+  background-color: #646464;
+  font-size: 30px;
+  cursor: pointer;
 }
 
 .footer-policy {
@@ -318,4 +328,9 @@ footer {
 
 .footer-policy a {
   color: #646464;
+}
+
+.footer-policy a:hover {
+  color: #646464;
+  text-decoration: underline;
 }
