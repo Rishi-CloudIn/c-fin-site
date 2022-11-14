@@ -28,7 +28,7 @@
   box-sizing: border-box;
   position: relative;
   z-index: 2;
-  margin-top: 0px !important;
+  margin-top: 40px !important;
 }
 
 .bg-img-1 {
@@ -39,6 +39,16 @@
   z-index: 0;
 }
 
+@media screen and (max-width: 576px) {
+  .introduction-container {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 2;
+    margin-top: 50px !important;
+  }
+}
 /*---------------------------------feature---------------------------------*/
 
 .card {
