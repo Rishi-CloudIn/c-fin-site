@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'Noir Pro Semi';
+	src: url(../../assets/fonts/NoirPro-SemiBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBold.woff2) format('woff2'),
+	url(../../assets/fonts/NoirPro-SemiBold.woff) format('woff'),
+	url(../../assets/fonts/NoirPro-SemiBold.ttf) format('truetype'),
+	url(../../assets/fonts/NoirPro-SemiBold.svg) format('svg');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noir Pro Semi';
+	src: url(../../assets/fonts/NoirPro-SemiBold_1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBold_1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBold_1.woff2) format('woff2'),
+	url(../../assets/fonts/NoirPro-SemiBold_1.woff) format('woff'),
+	url(../../assets/fonts/NoirPro-SemiBold_1.ttf) format('truetype'),
+	url(../../assets/fonts/NoirPro-SemiBold_1.svg) format('svg');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noir Pro Semi';
+	src: url(../../assets/fonts/NoirPro-SemiBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic.woff) format('woff'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic.ttf) format('truetype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic.svg) format('svg');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Noir Pro Semi';
+	src: url(../../assets/fonts/NoirPro-SemiBoldItalic_1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic_1.eot) format('embedded-opentype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic_1.woff2) format('woff2'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic_1.woff) format('woff'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic_1.ttf) format('truetype'),
+	url(../../assets/fonts/NoirPro-SemiBoldItalic_1.svg) format('svg');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
