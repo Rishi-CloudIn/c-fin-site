@@ -53,12 +53,13 @@
 
 .card {
   width: 90%;
-  height: 250px;
-  padding: 10px 15px;
+  height: 240px;
+  padding: 10px 10px;
   border: none;
   border-radius: 9px;
   box-shadow: 3.5px 3.5px 7.5px 0 rgba(0, 0, 0, 0.2);
   background-color: #fff;
+  overflow: hidden;
 }
 .feature-img-div {
   width: auto;
@@ -98,7 +99,21 @@
 
 @media screen and (max-width: 768px) {
   .card {
-    width: auto;
+    width: 80%;
+    margin: 0px auto;
+    height: auto;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 9px;
+    box-shadow: 3.5px 3.5px 7.5px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .card {
+    width: 90%;
+    margin: 0px auto;
     height: auto;
     padding: 10px 15px;
     border: none;
