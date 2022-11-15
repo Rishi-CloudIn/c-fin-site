@@ -335,6 +335,7 @@ footer {
   background-color: #ececee;
   font-size: 30px;
   cursor: pointer;
+  margin-bottom: 8px;
 }
 
 .footer-ul li svg:hover {
@@ -360,5 +361,11 @@ footer {
   text-decoration: underline;
 }
 
-/* offset value */
+@media screen and (max-width: 400px) {
+  .footer-policy {
+    color: #646464;
+    font-size: 11px;
+  }
+}
 
+/* offset value */
